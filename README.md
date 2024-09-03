@@ -1,6 +1,8 @@
 # Random Data Word Files Generator
 
 This Python script generates 10 Microsoft Word files, each containing a table with randomly generated data and a random paragraph of Lorem Ipsum text. The tables are similar to a predefined format, and the data within the tables varies across the files.
+![image](https://github.com/user-attachments/assets/ec0ad3a0-2bd7-4b9b-bbc8-305422fd2865)
+
 
 ## Project Overview
 
